@@ -8,5 +8,7 @@ Momos
 
 Beans
 Pizza
+Rajma
+Chole
 
 Thank You :)
