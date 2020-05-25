@@ -6,4 +6,7 @@ kheer
 Pasta
 Momos
 
+Beans
+Pizza
+
 Thank You :)
